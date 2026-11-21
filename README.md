@@ -1,4 +1,4 @@
-# Hola, soy Juan Sebastián García 👋
+# Hola, soy Juan Sebastián García
 ### Backend & Automation Developer | Soluciones prácticas para negocios
 
 Ayudo a empresas y comercios a **eliminar tareas repetitivas y no perder clientes**, conectando sus herramientas diarias (WhatsApp, Excel/Google Sheets, correos y bases de datos) mediante flujos automatizados y desarrollo backend.
