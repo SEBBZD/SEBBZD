@@ -7,9 +7,9 @@ Ayudo a empresas y comercios a **eliminar tareas repetitivas y no perder cliente
 
 ### ¿Qué problemas resuelvo para tu negocio?
 
-* ** Automatización con WhatsApp Business:** Envío automático de recordatorios de citas, renovaciones de pólizas/servicios y confirmaciones conectadas directamente a tus hojas de cálculo.
-* ** Atención y Calificación de Leads 24/7:** Respuestas inmediatas a clientes potenciales, captura automática de datos en CRM/Excel y alertas al equipo de ventas.
-* ** Procesamiento de Datos y Reportes:** Extracción automática de información, generación de cotizaciones en PDF y consolidación de reportes sin intervención manual.
+* **Automatización con WhatsApp Business:** Envío automático de recordatorios de citas, renovaciones de pólizas/servicios y confirmaciones conectadas directamente a tus hojas de cálculo.
+* **Atención y Calificación de Leads 24/7:** Respuestas inmediatas a clientes potenciales, captura automática de datos en CRM/Excel y alertas al equipo de ventas.
+* **Procesamiento de Datos y Reportes:** Extracción automática de información, generación de cotizaciones en PDF y consolidación de reportes sin intervención manual.
 
 ---
 
