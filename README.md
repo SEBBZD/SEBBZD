@@ -22,7 +22,7 @@ Ayudo a empresas y comercios a **eliminar tareas repetitivas y no perder cliente
 ---
 
 ### Proyectos Destacados
-*(En construcción — Próximamente verás aquí demostraciones funcionales de sistemas de automatización comercial).*
+* **[WhatsApp Appointment & Renewal Reminders](https://github.com/SEBBZD/whatsapp-appointment-reminders):** Sistema automatizado en Python y WhatsApp Business Cloud API conectado a hojas de cálculo para reducir citas perdidas y renovaciones olvidadas.
 
 ---
 
